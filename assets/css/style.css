@@ -2,7 +2,7 @@
 pink: #FC4445 use more as an accent
 turquoise: #3FEEE6
 darker turqoise: #55BCC9
-purple: #97CAEF
+light purple mauve: #97CAEF
 light greyish blue: #CAFAFE
 */
 
@@ -125,11 +125,13 @@ light greyish blue: #CAFAFE
 
 .contactme:hover{
   color: #00796b;
-  background-color: white;
+  background-color: #CAFAFE;
 }
 /* main body */
 
-/* body-color */
+/* body-
+
+ */
 
 body {
   color: #333;
@@ -557,7 +559,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #FC4445 !important;
 }
 
 /* .teal-text {
