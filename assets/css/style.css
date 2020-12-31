@@ -125,7 +125,7 @@ light greyish blue: #CAFAFE
 
 .contactme:hover{
   color: #00796b;
-  background-color: #CAFAFE;
+  background-color: #97CAEF;
 }
 /* main body */
 
@@ -267,7 +267,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #CAFAFE;
+  background-color: #97CAEF;
   border-bottom: 1px solid #ddd;
   box-sizing: content-box;
   min-height: 90px;
@@ -280,7 +280,7 @@ ul.side-nav.fixed li.logo a {
 }
 
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
-  background-color: #CAFAFE;
+  background-color: #97CAEF;
   border-left: 3px solid;
 }
 
@@ -570,7 +570,7 @@ small {
 
 .teal {
   color:#FC4445;
-  background-color: #55BCC9 !important;
+  background-color: #97CAEF !important;
 }
 
 /* .teal {
