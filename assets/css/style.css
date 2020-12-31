@@ -679,7 +679,7 @@ small {
   }
   #experience span.card-title {
     text-align: center;
-    display: block;
+    /*display: block;*/
   }
   #experience span.card-title a {
     margin: 0;
