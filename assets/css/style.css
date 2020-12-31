@@ -569,7 +569,8 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #FC4445 !important;
+  color:#FC4445;
+  background-color: #55BCC9 !important;
 }
 
 /* .teal {
