@@ -1,0 +1,25 @@
+skilled:
+  - NodeJS/Browser-side Javascript
+  - ExpressJS
+  - AWS Serverless technologies
+  - Scalable and PII-defensive System Design
+  - PHP
+  - Yii and Zend Frameworks
+  - Linux System Administration
+  - Functional Programming
+  - Build Pipelines & Continuous Integration
+  - Git & Vim
+  - Redis
+  - Mysql & PostgreSQL
+
+not_skilled:
+  -  encryption and security
+  -  project management
+  -  Mercurial
+  -  C++
+  -  Codeigniter
+  -  Ruby on Rails
+  -  SQL Server
+  -  Membase/Couchbase
+  -  Scheme (a dialect of Lisp)
+  -  AIX (Unix)
