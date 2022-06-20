@@ -1,4 +1,4 @@
-baseURL = "//camillewalters.github.io"
+baseURL = "https://camillewalters.github.io"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
