@@ -1,25 +1,35 @@
-skilled:
-  - NodeJS/Browser-side Javascript
-  - ExpressJS
-  - AWS Serverless technologies
-  - Scalable and PII-defensive System Design
-  - PHP
-  - Yii and Zend Frameworks
-  - Linux System Administration
-  - Functional Programming
-  - Build Pipelines & Continuous Integration
-  - Git & Vim
-  - Redis
-  - Mysql & PostgreSQL
+languages:
+  - C#
+  - C++
+  - C
+  - Python
+  - Java
+  - Go
+  - HTML, CSS, XML
+  - Javascript
+  - SQL
+  - YAML
 
-not_skilled:
-  -  encryption and security
-  -  project management
-  -  Mercurial
-  -  C++
-  -  Codeigniter
-  -  Ruby on Rails
-  -  SQL Server
-  -  Membase/Couchbase
-  -  Scheme (a dialect of Lisp)
-  -  AIX (Unix)
+frameworks:
+  - Git
+  - Unity 
+  - NUnit
+  - testNG
+  - Azure
+  - Jenkins
+  - Ansible
+  - Yamato
+  - Hugo
+  - Jekyll
+  - Latex
+
+other:
+  - Arduino
+  - PLC programming
+  - Basic CAD (Solidworks) and mechanical design
+  - Hardware prototyping, including design and fabrication
+  - User centered research methods and cognitive ergonomics
+  - Basic machine learning applications, such as pattern recognition and simulating neurobiological systems
+  - Real time operating systems design
+  - Microprocessor systems, interfacing and digital logic
+  - Audio editing

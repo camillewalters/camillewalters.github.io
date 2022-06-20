@@ -3,16 +3,12 @@ title = "Projects"
 menu = "main"
 +++
 
-# things i'm doing
+# fun stuff i'm working on
 
-If you want to check out some of the code I've written, check out my [Github profile](https://github.com/CorWatts). I also host code demos [here](http://code.corwatts.com/). The items below are all things I've worked on in my personal time.
+If you want to check out some of the code I've written, check out my [Github profile](https://github.com/camillewalters).
 
-## the faster scale app
-[The Faster Scale App](https://fasterscaleapp.com) is a project I've been working on for the last several months. It's an online version of Michael Dye's The Faster Scale psychological evaluation questionaire. I'm fascinated by addiction and the addictive process, and The Faster Scale is useful for helping addicts gain and maintain sobriety by helping them become more self-aware of their emotions. Generally, addiction is a coping mechanism for dealing with uncomfortable feelings and situations. The Faster Scale trains the addict to recognize when they are emotionally unhealthy, and to process their feelings in a beneficial way.
+## Custom Smart Home System
 
-I built this app in Yii 2 with a PostgreSQL backend. It's running on the same VPS as this website, using Nginx, PHP-FPM, and Memcache. Some cool features include meaningful retina-quality analytics that are built in the ChartJS charting library, a history of your emotional state which allows you to view how your emotions change over time, and a cool reporting feature that emails your friends when you aren't doing well.
-
-I had a lot of fun building this, and I intend to continue working on it! I hope it can help people.
 
 
 ## dotr

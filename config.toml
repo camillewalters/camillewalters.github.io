@@ -4,9 +4,9 @@ baseURL = "//corwatts.com"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Corey Watts"
-author = "Corey Watts"
-copyright = "Copyright © 2021, Corey Watts."
+title = "Camille Walters"
+author = "Camille Walters"
+copyright = "Copyright © 2022, Camille Walters."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
@@ -36,7 +36,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "The personal website, portfolio, and resume of Corey Watts."
+  description = "The portfolio of Camille Walters."
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -51,7 +51,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Corey Watts"
+  title = "Camille Walters"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).

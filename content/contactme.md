@@ -2,7 +2,7 @@
 title = "Contact Me"
 menu = "main"
 +++
-# let's get in touch
+# get in touch with me
 
 The best way to contact me is through email.  You can reach me at:  
-#### corey -at- haaswatts -dot- com
+#### camille -dot- h -dot- walters -at- gmail -dot- com
