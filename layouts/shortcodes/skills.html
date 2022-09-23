@@ -1,6 +1,0 @@
-{{ $type := .Get 0 }}
-<ul>
-  {{ range (index $.Site.Data.skills $type) }}
-  <li>{{ . }}</li>
-  {{ end }}
-</ul>
