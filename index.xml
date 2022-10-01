@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camille Walters</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Camille Walters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about me</title>
+      <link>http://example.org/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resume/</guid>
+      <description>My resume can be downloaded in a PDF format here.
+education Bachelor of Applied Science in Honors Mechatronics Engineering University of Waterloo Co-operative Program Graduated in April 2022 skills the languages i&amp;rsquo;ve worked with (from most experience to least experience) are
+C# C++ C Python Java Go HTML, CSS, XML Javascript SQL YAML the frameworks and libraries I&amp;rsquo;ve used are
+Unity NUnit testNG Azure Jenkins Ansible Hugo Jekyll Latex some of my other sills include</description>
+    </item>
+    
+    <item>
+      <title>fun stuff i&#39;m working on</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      <description>If you want to check out some of the code I&amp;rsquo;ve written, check out my Github profile.
+Custom Smart Home System This project aims to use primarily Arduino to create a customized, cost effective smart home, with the goal of being energy efficient and secure.
+Personal Website The latest iteration of my personal website (the one you&amp;rsquo;re reading right now!) was created using the Hugo framework.
+ideas without borders During the second half of my undergrad, I was involved in Engineers Without Borders on their podcast portfolio to create ideas without borders.</description>
+    </item>
+    
+    <item>
+      <title>get in touch</title>
+      <link>http://example.org/contactme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contactme/</guid>
+      <description>The best way to contact me is through email. You can reach me at
+camille -dot- h -dot- walters -at- gmail -dot- com
+Alternatively, you can find me on LinkedIn here.</description>
+    </item>
+    
+  </channel>
+</rss>
