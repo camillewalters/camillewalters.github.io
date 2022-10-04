@@ -12,10 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/resume/</guid>
-      <description>My resume can be downloaded in a PDF format here.
-education Bachelor of Applied Science in Honors Mechatronics Engineering University of Waterloo Co-operative Program Graduated in April 2022 skills the languages i&amp;rsquo;ve worked with (from most experience to least experience) are
+      <description>education Bachelor of Applied Science in Honors Mechatronics Engineering with Co-op from the University of Waterloo, Waterloo, ON. (April 2022) skills the languages i&amp;rsquo;ve worked with (from most experience to least experience) are
 C# C++ C Python Java Go HTML, CSS, XML Javascript SQL YAML the frameworks and libraries I&amp;rsquo;ve used are
-Unity NUnit testNG Azure Jenkins Ansible Hugo Jekyll Latex some of my other sills include</description>
+Unity NUnit testNG Azure Jenkins Ansible Hugo Jekyll Latex some of my other sills include
+Arduino PLC programming Basic CAD (Solidworks) and mechanical design Hardware prototyping, including design and fabrication User centered research methods and cognitive ergonomics Basic machine learning applications, such as pattern recognition and simulating neurobiological systems Real time operating systems design Microprocessor systems, interfacing and digital logic Audio editing work experience Software Engineer, Mechatronics (July 2022 to present)</description>
     </item>
     
     <item>
