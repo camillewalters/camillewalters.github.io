@@ -13,9 +13,8 @@
       
       <guid>http://example.org/resume/</guid>
       <description>education Bachelor of Applied Science in Honors Mechatronics Engineering with Co-op from the University of Waterloo, Waterloo, ON. (April 2022) skills the languages i&amp;rsquo;ve worked with (from most experience to least experience) are
-C# C++ C Python Java Go HTML, CSS, XML Javascript SQL YAML the frameworks and libraries I&amp;rsquo;ve used are
-Unity NUnit testNG Azure Jenkins Ansible Hugo Jekyll Latex some of my other sills include
-Arduino PLC programming Basic CAD (Solidworks) and mechanical design Hardware prototyping, including design and fabrication User centered research methods and cognitive ergonomics Basic machine learning applications, such as pattern recognition and simulating neurobiological systems Real time operating systems design Microprocessor systems, interfacing and digital logic Audio editing work experience Software Engineer, Mechatronics (July 2022 to present)</description>
+C# Python C++ C HLSL (Microsoft&amp;rsquo;s High-Level Shader Language) Java Go HTML, CSS, XML, Markdown Javascript SQL YAML the frameworks and libraries I&amp;rsquo;ve used are
+Unity NUnit, testNG ROS (Robot Operating System) Arduino Azure Jenkins Ansible Hugo Latex some of my other sills include</description>
     </item>
     
     <item>
@@ -25,9 +24,8 @@ Arduino PLC programming Basic CAD (Solidworks) and mechanical design Hardware pr
       
       <guid>http://example.org/projects/</guid>
       <description>If you want to see some of the code I&amp;rsquo;ve written, check out my Github profile.
-Custom Smart Home System This project aims to use primarily Arduino to create a customized, cost effective smart home, with the goal of being energy efficient and secure.
-Personal Website The latest iteration of my personal website (the one you&amp;rsquo;re reading right now!) was created using the Hugo framework.
-ideas without borders During the second half of my undergrad, I was involved in Engineers Without Borders on their podcast portfolio to create ideas without borders.</description>
+Mint++ Mint++ is a budget tracker based on Intuit&amp;rsquo;s Mint, a popular budgeting app. This ongoing project adds features that are missing from Mint, such as:
+Tracking debts that don&amp;rsquo;t exist in an account, such as as family loan; Adding more information to the budgeting categories, showing what is a subcategory of what; Changing how rollover balances (a.</description>
     </item>
     
     <item>
@@ -37,7 +35,7 @@ ideas without borders During the second half of my undergrad, I was involved in 
       
       <guid>http://example.org/contactme/</guid>
       <description>The best way to contact me is through email. You can reach me at
-camille -dot- h -dot- walters -at- gmail -dot- com
+camille.h.walters@gmail.com
 Alternatively, you can find me on LinkedIn here.</description>
     </item>
     
