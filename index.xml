@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/resume/</guid>
-      <description>education Bachelor of Applied Science in Honors Mechatronics Engineering with Co-op from the University of Waterloo, Waterloo, ON. (Class of 2022) skills the languages i&amp;rsquo;ve worked with (from most experience to least experience) are
+      <description>You can download a copy of my resume here.
+education Bachelor of Applied Science in Honors Mechatronics Engineering with Co-op from the University of Waterloo, Waterloo, ON. (Class of 2022) skills the languages i&amp;rsquo;ve worked with (from most experience to least experience) are
 C# Python C++ C HLSL (Microsoft&amp;rsquo;s High-Level Shader Language) Java Go HTML, CSS, XML, Markdown Javascript SQL YAML the frameworks and libraries I&amp;rsquo;ve used are
 Unity NUnit, testNG ROS (Robot Operating System) Arduino Azure Jenkins Ansible Hugo Latex some of my other sills include</description>
     </item>
@@ -24,7 +25,8 @@ Unity NUnit, testNG ROS (Robot Operating System) Arduino Azure Jenkins Ansible H
       
       <guid>http://example.org/projects/</guid>
       <description>If you want to see some of the code I&amp;rsquo;ve written, check out my Github profile.
-Pushover I&amp;rsquo;m currently working on a modernized version of the popular 90s video game Pushover with a colleague. In this puzzle game, the user plays an ant who needs to rearrange dominos to get them to all fall over. This remake will have a creative mode where the user can build their own levels. It is being written in Unity.</description>
+Farming Game I&amp;rsquo;m creating a tranquil and immersive 2D farming game set on a distant planet that combines my love for robotics and game development. I intend to leverage Unity&amp;rsquo;s Muse to create a visually enchanting experience for players.
+Eggstravaganza This was a game developed with some of my coworkers at Unity. It is a multiplayer game where you play as a gopher and try to collect more eggs than your opponents.</description>
     </item>
     
     <item>
