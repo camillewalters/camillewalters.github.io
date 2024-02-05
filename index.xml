@@ -5,40 +5,28 @@
     <link>http://example.org/</link>
     <description>Recent content on Camille Walters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about me</title>
       <link>http://example.org/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://example.org/resume/</guid>
-      <description>You can download a copy of my resume here.
-education Bachelor of Applied Science in Honors Mechatronics Engineering with Co-op from the University of Waterloo, Waterloo, ON. (Class of 2022) skills the languages i&amp;rsquo;ve worked with (from most experience to least experience) are
-C# Python C++ C HLSL (Microsoft&amp;rsquo;s High-Level Shader Language) Java Go HTML, CSS, XML, Markdown Javascript SQL YAML the frameworks and libraries I&amp;rsquo;ve used are
-Unity NUnit, testNG ROS (Robot Operating System) Arduino Azure Jenkins Ansible Hugo Latex some of my other sills include</description>
+      <description>You can download a copy of my resume here.&#xA;education Bachelor of Applied Science in Honors Mechatronics Engineering with Co-op from the University of Waterloo, Waterloo, ON. (Class of 2022) skills the languages i&amp;rsquo;ve worked with (from most experience to least experience) are&#xA;C# Python C++ C HLSL (Microsoft&amp;rsquo;s High-Level Shader Language) Java Go HTML, CSS, XML, Markdown Javascript SQL YAML the frameworks and libraries I&amp;rsquo;ve used are&#xA;Unity NUnit, testNG ROS (Robot Operating System) Arduino Azure Jenkins Ansible Hugo Latex some of my other sills include</description>
     </item>
-    
     <item>
       <title>fun stuff i&#39;m working on</title>
       <link>http://example.org/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://example.org/projects/</guid>
-      <description>If you want to see some of the code I&amp;rsquo;ve written, check out my Github profile.
-Farming Game I&amp;rsquo;m creating a tranquil and immersive 2D farming game set on a distant planet that combines my love for robotics and game development. I intend to leverage Unity&amp;rsquo;s Muse to create a visually enchanting experience for players.
-Eggstravaganza This was a game developed with some of my coworkers at Unity. It is a multiplayer game where you play as a gopher and try to collect more eggs than your opponents.</description>
+      <description>If you want to see some of the code I&amp;rsquo;ve written, check out my Github profile.&#xA;Farming Game I&amp;rsquo;m creating a tranquil and immersive 2D farming game set on a distant planet that combines my love for robotics and game development. I intend to leverage Unity&amp;rsquo;s Muse to create a visually enchanting experience for players.&#xA;Eggstravaganza This was a game developed with some of my coworkers at Unity. It is a multiplayer game where you play as a gopher and try to collect more eggs than your opponents.</description>
     </item>
-    
     <item>
       <title>get in touch</title>
       <link>http://example.org/contactme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://example.org/contactme/</guid>
-      <description>The best way to contact me is through email. You can reach me at
-camille.h.walters@gmail.com
-Alternatively, you can find me on LinkedIn here.</description>
+      <description>The best way to contact me is through email. You can reach me at&#xA;camille.h.walters@gmail.com&#xA;Alternatively, you can find me on LinkedIn here.</description>
     </item>
-    
   </channel>
 </rss>
